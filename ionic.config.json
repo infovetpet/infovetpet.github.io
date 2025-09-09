@@ -1,0 +1,7 @@
+{
+  "name": "infovetpet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
