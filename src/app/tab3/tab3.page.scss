@@ -8,3 +8,8 @@ img {
 .my-blue-text {
   color: rgb(110, 110, 230);
 }
+
+ion-fab {
+  margin-top: var(--ion-safe-area-top, 0);
+  margin-bottom: var(--ion-safe-area-bottom, 0);
+}
