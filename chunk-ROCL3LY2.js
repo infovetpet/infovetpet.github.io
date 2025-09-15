@@ -8,7 +8,7 @@ En ese caso, el precio solo var\xEDa en funci\xF3n del tipo de atenci\xF3n:
 \u{1F197} Solo `),t(94,"b")(95,"a",7),e(96,"texto"),n()(),e(97,"."),i(98,"br")(99,"br"),e(100,`
 \u2139\uFE0F Las consultas se cobran como atenci\xF3n profesional a distancia:`),i(101,"br")(102,"br"),e(103,`
 \u{1F4B0} El valor de la consulta por WhatsApp es de: `),t(104,"b")(105,"a",7),i(106,"br"),e(107,"$ 5.000"),n()(),i(108,"br")(109,"br"),e(110,`
-\u{1F4B0} El valor de la consulta domiciliaria es de: `),t(111,"b")(112,"a",7),i(113,"br"),e(114,"$ 30.000"),n()(),i(115,"br")(116,"br"),e(117,`
+\u{1F4B0} El valor de la visita domiciliaria es de: `),t(111,"b")(112,"a",7),i(113,"br"),e(114,"$ 30.000"),n()(),i(115,"br")(116,"br"),e(117,`
 \u{1F4B3} Nuestro alias bancario es: `),t(118,"b")(119,"a",7),i(120,"br"),e(121,"info.vet.pet"),n()(),i(122,"br")(123,"br"),e(124,`
 \u{1F4F2} La consulta por WhatsApp es integral, \xA1pregunt\xE1 lo que se te ocurra y trataremos de ayudarte!`),i(125,"br")(126,"br"),e(127,`
 \u{1F4B5} Una vez que nos confirmes el pago por este medio (`),t(128,"b")(129,"a",7),e(130,"ten\xE9 en cuenta que vamos a pedirte siempre un comprobante de transferencia"),n()(),e(131,"), \xA1comenzamos a responderte!"),i(132,"br")(133,"br"),e(134,`
