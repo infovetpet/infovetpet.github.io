@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      <b><a style="font-size: 15px; color: rgb(110, 110, 230);">CONSULTAS</a></b>
+      <b><a style="font-size: 15px; color: rgb(110, 110, 230);">DOMICILIO</a></b>
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -9,7 +9,7 @@
   <img class="img-responsive" src="assets/ivpfondocomuni.png" alt="INFOVETPET">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">CONSULTAS</ion-title>
+      <ion-title size="large">DOMICILIO</ion-title>
     </ion-toolbar>
   </ion-header>
 <app-explore-container name="Tab 2 page"></app-explore-container>
@@ -17,9 +17,12 @@
 </ion-card>
 <ion-card>
 </ion-card>
-<ion-card>
+<ion-grid [fixed]="true">
+  <ion-row>
+    <ion-col>
+      <ion-card>
 <ion-card-header>
-    <ion-card-title>ℹ️ Días y horarios de atención virtual:</ion-card-title>
+    <ion-card-title>ℹ️☎️ Días y horarios de atención telefónica:</ion-card-title>
     <ion-card-subtitle>
     </ion-card-subtitle>
 </ion-card-header>
@@ -28,6 +31,22 @@
   🕢 de <b><a style="font-size: 20px; color: rgb(110, 110, 230);">09.00 hs</a></b> a <b><a style="font-size: 20px; color: rgb(110, 110, 230);">19.00 hs</a></b>.
 </ion-card-content>
 </ion-card>
+    </ion-col>
+    <ion-col>
+      <ion-card>
+<ion-card-header>
+    <ion-card-title>ℹ️🚚 Días y horarios de reparto:</ion-card-title>
+    <ion-card-subtitle>
+    </ion-card-subtitle>
+</ion-card-header>
+<ion-card-content>
+  🗓️ de <b><a style="font-size: 20px; color: rgb(110, 110, 230);">Lunes</a></b> a <b><a style="font-size: 20px; color: rgb(110, 110, 230);">Domingo</a></b>.<br>
+  🕢 de <b><a style="font-size: 20px; color: rgb(110, 110, 230);">09.00 hs</a></b> a <b><a style="font-size: 20px; color: rgb(110, 110, 230);">19.00 hs</a></b>.
+</ion-card-content>
+</ion-card>
+    </ion-col>
+  </ion-row>
+</ion-grid>
 <ion-card>
 </ion-card>
 <ion-card>
@@ -90,7 +109,7 @@ En ese caso, el precio solo varía en función del tipo de atención:
 </ion-card>
 </ion-content>
 <ion-fab slot="fixed" vertical="top" horizontal="center">
-  <ion-fab-button size="large" color="success" href="https://api.whatsapp.com/send/?phone=5492214379493&text=INFOVETPET Hola! necesito:&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
+  <ion-fab-button size="large" color="success" href="https://api.whatsapp.com/send/?phone=5492214379493&text=INFOVETPET Hola! necesito un veterinario:&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <ion-icon color="dark" name="logo-whatsapp"></ion-icon>
   </ion-fab-button>
 </ion-fab>
